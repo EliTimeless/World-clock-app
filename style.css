@@ -48,6 +48,7 @@ h1 {
   border: solid 1px var(--second-color);
   border-radius: 10px;
   color: var(--dark-color);
+  box-shadow: var(--box-shadow);
 }
 
 .cities {
