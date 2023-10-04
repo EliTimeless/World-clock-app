@@ -1,5 +1,5 @@
 :root {
-  --first-color: #d9dad7;
+  --first-color: #dbdbd1;
   --second-color: #aa6e1c;
   --third-color: #76b39d;
   --dark-color: rgb(59, 0, 0);
@@ -8,7 +8,7 @@
     90deg,
     rgba(235, 216, 109, 1) 0%,
     rgba(255, 154, 154, 1) 50%,
-    rgba(43, 99, 94, 1) 100%
+    rgb(72, 167, 159) 100%
   );
 }
 
@@ -48,18 +48,21 @@ h1 {
   border: solid 1px var(--second-color);
   border-radius: 10px;
   color: var(--dark-color);
-  box-shadow: var(--box-shadow);
+  box-shadow: var(--bo);
 }
 
 .cities {
+  color: var(--dark-color);
   background-image: var(--gradient-1);
   margin: 5px auto;
   border: solid 1px var(--third-color);
 }
 #city {
-  color: var(--dark-color);
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
+}
+.num {
+  font-size: 26px;
 }
 
 #currentClock {
