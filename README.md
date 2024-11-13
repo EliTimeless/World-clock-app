@@ -4,7 +4,7 @@ Welcome to the World Clock App repository! This project is a simple web applicat
 
 ⏰ Live Demo
 
-The World Clock App is deployed on Netlify. You can access it [here]([https://elitimeless.github.io/World-clock-app/](https://zesty-macaron-c4c88d.netlify.app)).
+The World Clock App is deployed on Netlify. You can access it [here]([https://zesty-macaron-c4c88d.netlify.app]).
 
 ⏰ Features
 
